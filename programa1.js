@@ -47,3 +47,4 @@ var persona={
     lugarNacimiento:"Mexico"
 }
 
+
