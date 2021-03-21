@@ -47,4 +47,6 @@ var persona={
     lugarNacimiento:"Mexico"
 }
 
+var o=10;
+console.log(o);
 
