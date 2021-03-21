@@ -50,3 +50,4 @@ var persona={
 var o=10;
 console.log(o);
 
+
